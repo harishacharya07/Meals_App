@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:meala_app/category_meal_screen.dart';
-import './catagaries_screens.dart';
+import 'file:///C:/Users/User/AndroidStudioProjects/meala_app/lib/screen/category_meal_screen.dart';
+import 'screen/catagaries_screens.dart';
 
 void main() {
   runApp(MyApp());

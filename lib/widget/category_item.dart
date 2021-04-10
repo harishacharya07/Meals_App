@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meala_app/category_meal_screen.dart';
+import 'file:///C:/Users/User/AndroidStudioProjects/meala_app/lib/screen/category_meal_screen.dart';
 
 class CategoryItem extends StatelessWidget {
   final String title;
